@@ -52,6 +52,11 @@ h1 {
 p {
   line-height: 1.9;
   letter-spacing: 1px;
+  text-align:left;
+}
+
+.text-center p {
+  text-align:right;
 }
 
 .tm-main-content {
