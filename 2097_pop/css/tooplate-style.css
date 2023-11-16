@@ -279,6 +279,10 @@ p {
   padding-left: 0;
 }
 
+.tm-link-redes{
+  text-align: right;
+}
+
 .tm-btn-submit {
   background-color: #006599;
 }
@@ -317,8 +321,12 @@ footer {
   right: 0;
 }
 
+
 .tm-text-highlight {
   color: white;
+}
+.tm-text-highlight2 {
+  color: #4dafa4;
 }
 .tm-text-highlight:hover {
   color: red;
@@ -403,6 +411,8 @@ p:last-child {
   footer {
     position: relative;
     bottom: 0;
+
+
   }
 }
 
